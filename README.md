@@ -51,4 +51,4 @@ Each week's folder contains:
 
 ## Note on Datasets
 
-All datasets, apart from the Palmer Penguins dataset (penguins_size.csv, used for data visualisation in Week 6) are simulated datasets and do not contain realworld data. They are intended to simulate the kind of datasets students are likely to encounter in the realworld and are deliberately simulated to include data quality issues. Scripts for generating these datasets are provided.
+All datasets, apart from the Palmer Penguins dataset (penguins_size.csv, used for data visualisation in Week 6) are simulated datasets and do not contain realworld data. They are intended to simulate the kind of datasets students are likely to encounter in the realworld and are deliberately designed to include data quality issues. Scripts for generating these datasets are provided.
