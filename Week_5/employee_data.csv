@@ -1,0 +1,21 @@
+employee_id,name,department,age,salary,years_at_company,performance_score
+1,Alice,HR,28,60000,3,4.1
+2,Bob,Engineering,35,85000,8,4.5
+3,Charlie,Engineering,42,92000,12,4.8
+4,David,Sales,29,,4,3.9
+5,Eve,HR,51,62000,20,3.2
+6,Frank,Sales,45,73000,15,4
+7,Grace,Engineering,33,88000,7,4.6
+8,Heidi,HR,26,58000,2,3.5
+9,Ivan,Sales,38,75000,10,Full score
+10,Judy,Engineering,41,95000,14,4.9
+11,Kevin,HR,24,55000,1,
+12,Linda,Sales,39,78000,11,4.3
+13,Mike,Engineering,31,82000,6,4.4
+14,Nancy,HR,47,63000,18,3.4
+15,Oscar,Sales,36,72000,9,3.8
+16,Patty,Engineering,,84000,4,4.7
+17,Quincy,HR,999,59000,30,3
+18,Rita,Sales,34,76000,8,4.1
+19,Steve,Engineering,28,81000,3,TBC
+20,Tina,HR,44,61000,16,4.2

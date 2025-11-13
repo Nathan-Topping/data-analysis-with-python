@@ -1,0 +1,49 @@
+product_id,product_name,category,supplier,unit_cost,stock_quantity,last_updated
+PRD101,Wireless Bluetooth Headphones,Mobile,InnovateTech,59.92,71,00:51.4
+PRD102,Smart Fitness Tracker,Gaming,ElectroMax,51.85,330,00:51.4
+PRD103,Portable Phone Charger,Gaming,DigitalSolutions,47.99,130,00:51.4
+PRD104,Bluetooth Speaker,Gaming,ElectroMax,218.26,413,00:51.4
+PRD105,Laptop Stand,Accessories,DigitalSolutions,59.91,459,00:51.4
+PRD106,Wireless Mouse,Gaming,DigitalSolutions,12.77,474,00:51.4
+PRD107,USB-C Hub,Accessories,DigitalSolutions,292.27,270,00:51.4
+PRD108,Phone Case,Computing,DigitalSolutions,157.17,319,00:51.4
+PRD109,Screen Protector,Computing,InnovateTech,184.61,20,00:51.4
+PRD110,Wireless Keyboard,Accessories,DigitalSolutions,283,13,00:51.4
+PRD111,Tablet Stand,Accessories,TechCorp,10.68,385,00:51.4
+PRD112,Power Bank,Mobile,DigitalSolutions,41.87,263,00:51.4
+PRD113,Car Phone Mount,Computing,TechCorp,82.07,359,00:51.4
+PRD114,Desk Organizer,Accessories,ElectroMax,172.89,476,00:51.4
+PRD115,Cable Management Kit,Accessories,DigitalSolutions,282.2,445,00:51.4
+PRD116,Monitor Stand,Mobile,TechCorp,288.57,212,00:51.4
+PRD117,Webcam,Gaming,ElectroMax,164.66,279,00:51.4
+PRD118,Microphone,Electronics,DigitalSolutions,184.46,492,00:51.4
+PRD119,LED Desk Lamp,Gaming,InnovateTech,27.91,326,00:51.4
+PRD120,Ergonomic Mouse Pad,Electronics,DigitalSolutions,92.28,62,00:51.4
+PRD121,Laptop Sleeve,Computing,TechCorp,215.12,418,00:51.4
+PRD122,Phone Ring Holder,Computing,InnovateTech,278.32,40,00:51.4
+PRD123,Wireless Charger,Electronics,DigitalSolutions,103.27,47,00:51.4
+PRD124,USB Flash Drive,Gaming,GadgetPro,179.83,213,00:51.4
+PRD125,External Hard Drive,Computing,TechCorp,118.57,430,00:51.4
+PRD126,HDMI Cable,Computing,TechCorp,218.18,254,00:51.4
+PRD127,Lightning Cable,Computing,TechCorp,214.92,345,00:51.4
+PRD128,USB-C Cable,Mobile,InnovateTech,65.3,351,00:51.4
+PRD129,Wall Adapter,Electronics,DigitalSolutions,171.59,387,00:51.4
+PRD130,Car Charger,Gaming,GadgetPro,65.69,12,00:51.4
+PRD131,Bluetooth Earbuds,Computing,GadgetPro,53.39,65,00:51.4
+PRD132,Gaming Mouse,Gaming,TechCorp,37.01,283,00:51.4
+PRD133,Mechanical Keyboard,Mobile,DigitalSolutions,128.44,445,00:51.4
+PRD134,Monitor,Accessories,DigitalSolutions,110.74,189,00:51.4
+PRD135,Laptop,Electronics,TechCorp,196.41,120,00:51.4
+PRD136,Tablet,Gaming,TechCorp,95.6,197,00:51.4
+PRD137,Smartphone,Computing,TechCorp,148.53,224,00:51.4
+PRD138,Smart Watch,Accessories,DigitalSolutions,77.76,314,00:51.4
+PRD139,Fitness Band,Electronics,DigitalSolutions,112.9,496,00:51.4
+PRD140,Action Camera,Mobile,DigitalSolutions,80.01,385,00:51.4
+PRD141,Drone,Electronics,InnovateTech,89.73,80,00:51.4
+PRD142,VR Headset,Electronics,ElectroMax,153.78,53,00:51.4
+PRD143,Gaming Headset,Gaming,TechCorp,192.49,125,00:51.4
+PRD144,Webcam Stand,Gaming,DigitalSolutions,137.64,197,00:51.4
+PRD145,Ring Light,Mobile,GadgetPro,114.67,400,00:51.4
+PRD146,Phone Stand,Mobile,GadgetPro,10.26,200,00:51.4
+PRD147,Drone (Silver),Electronics,ElectroMax,89.73,90,00:51.4
+PRD148,Phone Cover (Black),Mobile,GadgetPro,5.6,20,00:51.4

@@ -1,0 +1,101 @@
+product_id,product_name,category,price,stock_quantity,rating,release_date,is_discontinued
+101,Stapler,Office Supplies,£3.48,613,3.5,04/12/2021,No
+102,Scanner,Electronics,852.51,25,3.2,20/09/2021,Yes
+103,Markers,Office Supplies,71.89,1486,4.1,19/08/2021,No
+104,Cable Organizer,Electronics,1614.55,367,3.8,07/03/2022,No
+105,Tablet,Electroncs,769.16,193,4.7,26/05/2023,Yes
+106,Envelope,Office Supplies,54.09,1938,3.8,27/05/2023,No
+107,Magazine Rack,Office Furniture,194.22,13,3.1,03/05/2021,No
+108,USB Cable,Electronics,566.78,335,4.7,12/06/2021,No
+109,Eraser,Office Supplies,70.48,1449,4.3,06/11/2023,No
+110,Highlighters,Office Supplies,17.18,827,3.5,18/12/2023,No
+111,Mousepad,Office Supplies,84.44,1639,3.1,13/06/2021,No
+112,Mouse,Electronics,1827.58,300,4.8,21/04/2022,No
+113,Floor Lamp,Office Furniture,157.15,22,,09/09/2023,No
+114,Magazine Rack,Office Furniture,349.55,33,5,16/09/2021,Yes
+115,Smartphone,Electronics,318.39,91,4.6,03/10/2022,No
+116,Shoe Rack,Office Furniture,797.09,72,3.5,22/01/2023,Yes
+117,Paper Shredder,Office Supplies,54.16,596,4.5,10/02/2022,No
+118,Power Bank,Electronics,21.44,379,4.8,25/09/2022,No
+119,Laminator,Office Supplies,11.53,1330,3.6,20/09/2023,No
+120,Router,Electronics,1528.58,286,4.9,20/01/2023,No
+121,Desk Chair,Office Furniture,133.9,51,4.8,02/04/2022,No
+122,Pencil,Office Supplies,9.48,1045,4.6,05/03/2023,No
+123,Sticky Notes,Office Supplies,27.24,1836,4.2,25/09/2021,No
+124,Calculator,Office Supplies,40.5,1425,4.3,15/09/2022,Yes
+125,Webcam,Electronics,142.09,20,4.2,08/10/2021,Yes
+126,Charging Station,Electronics,1267.74,127,3.1,03/06/2021,No
+127,Headphones,Electronics,,119,4.1,19/10/2023,No
+128,External Hard Drive,Electronics,1617.88,107,3.2,,No
+129,Floor Lamp,Office Furniture,697.88,11,4.3,02/02/2023,No
+130,Mousepad,Office Supplies,£80.26,273,3.5,15/09/2021,No
+131,Filing Cabinet,Office Furniture,258.91,36,4.7,26/08/2021,No
+132,Desktop Computer,Electronics,1309.51,286,4.7,06/04/2021,No
+133,Coat Rack,Office Furniture,210.31,56,4.8,01/07/2021,No
+134,Floor Lamp,Office Furniture,263.94,94,4.9,,No
+135,Mouse,Electronics,603.97,39,4.2,24/01/2023,No
+136,Desktop Computer,Electronics,1174.59,267,4.8,02/03/2023,No
+137,Keyboard,Electronics,151.01,44,4.4,04/07/2021,No
+138,Scanner,Electronics,1195.12,327,3.2,19/10/2023,No
+139,Storage Cabinet,Office Furniture,203.19,96,3.6,05/07/2022,No
+140,Cork Board,Office Furniture,746.76,14,3,04/10/2023,Yes
+141,Markers,Office Supplies,51.08,321,4.9,12/04/2021,No
+142,Power Bank,Electronics,1669.98,370,3.6,01/09/2023,No
+143,Desk Lamp,Office Furniture,754.2,22,3.5,18/12/2021,No
+144,Whiteboard,Office Furniture,503.62,96,3.7,28/11/2023,No
+145,Tape,Office Supplies,25.86,1909,4.7,14/11/2021,No
+146,Laptop,Electronics,677.11,76,4.3,24/03/2022,No
+147,Ruler,Office Supplies,43.34,69,3.2,18/03/2023,Yes
+148,Magazine Rack,Office Furniture,464.39,60,3.3,26/06/2022,Yes
+149,Conference Table,Office Furniture,561.55,90,3.2,20/07/2023,No
+150,Keyboard,Electronics,1952.77,425,3.4,06/01/2022,No
+151,Laptop Pro,Office Furniture,250.1,94,3.2,08/08/2021,No
+152,Room Divider,Office Furniture,£278.89,34,3.4,13/04/2023,No
+153,Standing Desk,Office Furniture,775.17,40,3.7,22/07/2023,No
+154,Desk Chair,Office Furniture,136.51,38,3.4,04/01/2022,No
+155,Room Divider,Office Furniture,596.41,9999,3.9,13/02/2023,No
+156,Headphones,Electronics,103.11,233,3,24/11/2023,No
+157,Adjustable Desk,Office Furniture,102.48,90,4.8,22/06/2023,Yes
+158,Paper Shredder,Office Supplies,30.73,683,4.3,23/07/2022,No
+159,Paper Clips,Office Supplies,19.99,1411,4.9,06/12/2023,No
+160,Calculator,Office Supplies,41.2,1757,3,14/04/2022,No
+161,Label Maker,Office Supplies,32.9,954,3.9,16/09/2021,No
+162,Pencil,Office Supplies,29.09,1409,4.3,27/02/2022,No
+163,Calculator,Office Supplies,23.24,457,3.3,16/04/2021,No
+164,Power Bank,Electronics,837.67,332,4.2,13/12/2023,No
+165,Office Sofa,Office Furniture,160.68,93,3,08/07/2021,No
+166,Scissors,Office Supplies,46.99,1191,3.5,05/08/2021,No
+167,Scissors,Office Supplies,98.8,1269,3.6,27/10/2022,No
+168,Plant Stand,Office Furniture,384.44,25,4.5,09/08/2022,No
+169,Eraser,Office Supplies,76.82,1117,4,15/05/2021,Yes
+170,Calculator,Office Supplies,24.21,737,3.6,05/02/2023,No
+171,USB Cable,Electronics,1392.49,371,3.4,11/07/2022,No
+172,Adjustable Desk,Office Furniture,96.7,58,3.8,01/12/2023,No
+173,Coat Rack,Office Furniture,54.42,50,3.6,18/07/2022,No
+174,Paper Shredder,Office Supplies,22.83,499,3.5,13/01/2022,No
+175,Correction Fluid,Office Supplies,80.02,1533,3.3,20/03/2022,No
+176,Laptop,Electronics,1189.91,99999,3.1,05/07/2023,No
+177,Desktop Computer,Electronics,531.41,177,3.4,25/06/2022,No
+178,Adjustable Desk,Office Furniture,239.2,15,3.9,02/09/2023,No
+179,Smart Watch,Electronics,151.21,500,,07/04/2021,Yes
+180,Paper Clips,Office Supplies,24.62,1019,4.3,15/04/2023,No
+181,Filing Cabinet,Office Furniture,,100,4.4,04/05/2021,No
+182,Speakers,Electronis,1157.96,474,4.9,07/12/2022,Yes
+183,Ruler,Office Supplies,83.23,547,3.2,20/11/2022,Yes
+184,Calendar,Office Supplies,5.07,1141,3.9,17/02/2022,No
+185,HDMI Cable,Electronics,1647.33,64,3.9,27/11/2022,No
+186,Paper Clips,Office Supplies,44.11,1552,4,20/05/2023,No
+187,Floor Lamp,Office Furniture,376.68,98,4.2,27/04/2022,Yes
+188,Floor Lamp,Office Furniture,232.9,64,4.1,11/07/2023,Yes
+189,Cork Board,Office Furniture,186.38,32,3.7,09/06/2022,No
+190,Paper Shredder,Office Supplies,28.35,70,4,08/02/2021,No
+191,Plant Stand,Office Furniture,618.62,93,4,15/08/2023,Yes
+192,Speakers,Electronics,454.87,364,3.5,12/10/2023,No
+193,Scissors,Office Supplies,35.03,1577,4.1,15/12/2022,No
+194,Storage Cabinet,Office Furniture,£222.90,97,3.4,18/12/2021,No
+195,Mouse,Electronics,1481.13,151,,10/10/2023,Yes
+196,Speakers,Electronics,466.55,101,3.6,05/09/2023,No
+197,Desktop Computer,Electronics,1113.42,367,4.9,04/08/2023,Yes
+198,Calculator,Office Supplies,,952,3.7,28/05/2021,No
+199,Tablet,Electronic,810.4,47,4.2,05/01/2023,No
+200,Calculator,Office Supplies,9.43,558,3.2,20/10/2022,No
